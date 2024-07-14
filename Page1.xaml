@@ -1,0 +1,15 @@
+﻿<Page x:Class="Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Windows7"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page1">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="500" Margin="0,-50,0,0" VerticalAlignment="Top" Width="1112" Source="https://m1.quebecormedia.com/emp/emp/windows_7_wallpaper9ad93719-4efa-4e7d-8aad-f96b4fbfb136_ORIGINAL.jpg?impolicy=crop-resize&amp;x=0&amp;y=0&amp;w=1920&amp;h=1200&amp;width=960"/>
+        <Label Content="1 2 3 test" HorizontalAlignment="Left" Height="256" Margin="46,264,0,0" VerticalAlignment="Top" Width="624" FontSize="99"/>
+
+    </Grid>
+</Page>
